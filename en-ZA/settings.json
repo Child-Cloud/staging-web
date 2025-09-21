@@ -1,0 +1,23 @@
+{
+  "language_region_settings": "Language & Region Settings",
+  "language_region_description": "Set the default language for your school and personal language preferences",
+  "school_default_language": "School Default Language",
+  "school_default_description": "This will be the default language for all users in your school",
+  "personal_language_preference": "Personal Language Preference",
+  "personal_preference_description": "Override the school default with your personal language preference",
+  "use_school_default": "Use school default",
+  "current_language": "Current Language",
+  "language_precedence": "Language precedence: Personal preference → School default → Browser settings → English (South Africa)",
+  "save_changes": "Save Changes",
+  "preview_changes": "Preview Changes",
+  "reset_language": "Reset Language",
+  "reset_description": "Reset preview to your current language settings",
+  "sample_formatting": "Sample formatting for selected language:",
+  "date_format": "Date",
+  "number_format": "Number",
+  "currency_format": "Currency",
+  "search_languages": "Search languages...",
+  "previewing_language": "Previewing {{language}} (preview only, not saved)",
+  "current_personal_preference": "Current personal preference: {{language}}",
+  "current_school_default": "Current: {{language}}"
+}

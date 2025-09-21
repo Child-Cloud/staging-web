@@ -1,0 +1,52 @@
+{
+  "success": {
+    "saved": "Veranderinge suksesvol gestoor",
+    "created": "Suksesvol geskep",
+    "updated": "Suksesvol opdateer",
+    "deleted": "Suksesvol geskrap",
+    "uploaded": "Suksesvol opgelaai",
+    "sent": "Suksesvol gestuur",
+    "classroom_created": "Klaslokaal suksesvol geskep",
+    "student_added": "Leerder suksesvol bygevoeg",
+    "staff_added": "Personeellid suksesvol bygevoeg",
+    "parent_added": "Ouer suksesvol bygevoeg",
+    "settings_updated": "Instellings suksesvol opdateer",
+    "language_changed": "Taal suksesvol verander",
+    "profile_updated": "Profiel suksesvol opdateer",
+    "password_changed": "Wagwoord suksesvol verander",
+    "email_sent": "E-pos suksesvol gestuur",
+    "sms_sent": "SMS suksesvol gestuur"
+  },
+  "error": {
+    "generic": "Iets het verkeerd geloop",
+    "save_failed": "Kon nie veranderinge stoor nie",
+    "create_failed": "Kon nie skep nie",
+    "update_failed": "Kon nie opdateer nie",
+    "delete_failed": "Kon nie skrap nie",
+    "upload_failed": "Kon nie oplaai nie",
+    "send_failed": "Kon nie stuur nie",
+    "network_error": "Netwerk fout voorgekom",
+    "validation_error": "Gaan jou invoer na",
+    "permission_denied": "Toestemming geweier",
+    "not_found": "Item nie gevind nie",
+    "server_error": "Bediener fout voorgekom",
+    "login_failed": "Aanmelding het gefaal",
+    "signup_failed": "Registrasie het gefaal"
+  },
+  "warning": {
+    "unsaved_changes": "Jy het ongestoorde veranderinge",
+    "confirm_delete": "Is jy seker jy wil dit skrap?",
+    "confirm_logout": "Is jy seker jy wil uitteken?",
+    "session_expiring": "Jou sessie gaan binnekort verval",
+    "required_fields": "Vul asseblief al die vereiste velde in"
+  },
+  "info": {
+    "loading": "Laai tans...",
+    "processing": "Verwerk tans...",
+    "no_data": "Geen data beskikbaar nie",
+    "empty_state": "Niks om te wys nie",
+    "welcome": "Welkom!",
+    "goodbye": "Totsiens!",
+    "coming_soon": "Kom binnekort"
+  }
+}

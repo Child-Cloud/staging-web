@@ -1,2 +1,2 @@
-/api/*  https://childcloud-api-prod-eu-958682143036.europe-west1.run.app/api/:splat  200
+/api/*  https://childcloud-api-staging-eu-958682143036.europe-west1.run.app/api/:splat  200
 /*      /index.html  200
